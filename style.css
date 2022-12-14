@@ -1,0 +1,25 @@
+.calculator {
+    height: 500px;
+    width: 500px;
+    padding: 15px;
+    border-radius: 1em;
+    margin: auto;
+    background-color:black;
+}
+#display {
+    width: 90%;
+    height: 65%;
+    background-color:gray;
+    border: solid black 3px;
+    color: black;
+    border-radius: 5px;
+}
+button {
+    background-color:orange;
+    color: white;
+    border: solid black 0.5px;
+    width: 95%;
+    border-radius: 5px;
+    height: 80%;
+    outline: none;
+}
